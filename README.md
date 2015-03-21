@@ -1,0 +1,2 @@
+# JitPackTest-ClipboardUtils
+Trying JitPack
